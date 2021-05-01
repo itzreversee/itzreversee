@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**reversee-dev/reversee-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, it's me, reversee!
+===========================
+ >note: i'm half-asleep
+ 
+I am a young **"developer"** from Poland,
+I enjoy writing code in IDEs, and failing immeasurably, and crying in a corner...
+Well, umm I like `Typescript` `Python` `.NET stuff` `writing this markdown file at 1AM because i just learned that you can put READMEs in github profile` I **HATE** powershell…
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## facts
+Best IDE is Webstorm, then VS Code, then PyCharm, then Intellij Idea!
+Assembly and C++ are the worst
+[Ayy V4](https://open.spotify.com/playlist/74s3hIC9cZ8YlfEUw80Xom?si=ddd0f172efac40e4) ( Best Spotify Playlist ( by me ) )
+OS for Programming - Linux > macOS > Flash Player > Windows
+OS for Gaming - Linux > Windows > ... (does macOS count?)
+Best Linux is Manjaro
+Best Browser is Firefox
+###### enter more things here... Sans Granie
+>remember kids, windows is the world's worst os, but if there wasn't 'Microsoft' in 'Windows', it would be ok

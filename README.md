@@ -1,5 +1,5 @@
 
-Hi there, it's me, reversee! UwU
+Hi there, it's me, reversee! 
 ===========================
  >note: i'm half-asleep
  

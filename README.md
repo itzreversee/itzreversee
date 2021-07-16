@@ -11,7 +11,7 @@ Well, umm I like `Typescript` `Python` `.NET stuff` and `writing this markdown f
 I **HATE** powershell and windows…  
 
 ## facts OwO
-Best IDE is Webstorm, then VS Code, then PyCharm, then Intellij Idea!  
+Best IDE is Intellij Idea. 
 Assembly and C++ are the worst  
 [Ayy V4](https://open.spotify.com/playlist/74s3hIC9cZ8YlfEUw80Xom?si=ddd0f172efac40e4) ( Best Spotify Playlist ( by me ) )  
 OS for Programming - Linux > macOS > Windows  

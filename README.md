@@ -1,9 +1,6 @@
 
 Hi there, it's me, reversee! 
 ===========================
- >note: i'm half-asleep
- 
- >note 2: i hate anime
  
 I am a young **"developer"** from Poland,  
 I enjoy writing code in IDEs, and failing immeasurably, and crying in a corner...   
@@ -18,4 +15,4 @@ OS for Programming - Linux > macOS > Windows
 OS for Gaming - Linux > Windows > ... (does macOS count?)  
 Best Linux is Arch  
 Best Browser is Firefox  
-###### enter more things here... Sans Granie
+###### enter more things here...

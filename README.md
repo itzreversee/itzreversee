@@ -14,3 +14,6 @@ OS for Programming - macOS
 Best Windows is 11
 Best Linux is Arch  
 Best Browser is Firefox  
+
+## stats or something
+[![reversee's GitHub stats](https://github-readme-stats.vercel.app/api?username=reversee-dev)](https://github.com/anuraghazra/github-readme-stats)

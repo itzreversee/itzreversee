@@ -16,4 +16,5 @@ Best Linux is Arch
 Best Browser is Firefox  
 
 ## stats or something
-[![reversee's GitHub stats](https://github-readme-stats.vercel.app/api?username=reversee-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![reversee's GitHub stats](https://github-readme-stats.vercel.app/api?username=reversee-dev&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reversee-dev&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)

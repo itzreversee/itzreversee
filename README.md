@@ -8,7 +8,7 @@ Well, umm I like `Typescript` `Python` `.NET stuff`
 
 ## facts, that are true, really
 Best color is dark purple ( like that i have in stats )  
-Best IDE is Intellij Idea ( webstorm ).
+Best IDE is Intellij Idea ( webstorm ).  
 Assembly and C++ are the worst  
 [Ayy V4](https://open.spotify.com/playlist/74s3hIC9cZ8YlfEUw80Xom?si=ddd0f172efac40e4) ( Best Spotify Playlist ( by me ) )  
 OS for Programming - macOS 

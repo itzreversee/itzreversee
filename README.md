@@ -11,8 +11,8 @@ Best color is dark purple ( like that i have in stats )
 Best IDE is Intellij Idea ( webstorm ).  
 Assembly and C++ are the worst  
 [Ayy V4](https://open.spotify.com/playlist/74s3hIC9cZ8YlfEUw80Xom?si=ddd0f172efac40e4) ( Best Spotify Playlist ( by me ) )  
-OS for Programming - macOS 
-Best Windows is 11
+OS for Programming - macOS   
+Best Windows is 11  
 Best Linux is Arch  
 Best Browser is Firefox  
 

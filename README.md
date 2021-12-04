@@ -16,6 +16,7 @@ Best Windows is 11
 Best Linux is Arch  
 Best Browser is Firefox  
 
-## stats or something
+## stats or something 
 [![reversee's GitHub stats](https://github-readme-stats.vercel.app/api?username=reversee-dev&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reversee-dev&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+###### ( please don't look up my issues, it was long ago!!!! )

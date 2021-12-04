@@ -4,7 +4,7 @@ Hi there, it's me, reversee!
  
 I am a young **"developer"** from Poland,  
 I enjoy writing code in IDEs, and failing immeasurably, and crying in a corner...   
-Well, umm I like `Typescript` `Python` `.NET stuff` 
+I like `Typescript` `Python` `.NET stuff` 
 
 ## facts, that are true, really
 Best color is dark purple ( like that i have in stats )  

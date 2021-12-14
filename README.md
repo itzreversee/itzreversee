@@ -31,6 +31,6 @@ Best Web Browser is Firefox
 ###### ( please don't look up my issues, it was long ago!!!! )
 
 ## goals or something
-- [ ] 2021 -> 200 contributions ( date : N/A )
+- [x] 2021 -> 200 contributions ( date : 14.12.2021 19:45 )
 
 ###### i'm not really a dev lol  

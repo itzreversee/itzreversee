@@ -28,9 +28,11 @@ Best Web Browser is Firefox
 ## stats or something 
 [![reversee's GitHub stats](https://github-readme-stats.vercel.app/api?username=reversee-dev&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reversee-dev&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-###### ( please don't look up my issues, it was long ago!!!! )
 
 ## goals or something
 - [x] 2021 -> 200 contributions ( date : 14.12.2021 19:45 )
+- [ ] 2022 -> 500 contributions 
 
 ###### i'm not really a dev lol  
+###### or am i?
+###### (spoiler: i'm bad)

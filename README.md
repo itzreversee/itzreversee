@@ -2,18 +2,17 @@
 Hi there, it's me, reversee! 
 ===========================
  
-I am a young **"developer"** from Poland, 
-I enjoy writing code in IDEs, and failing immeasurably, and crying in a corner...   
-I like `Typescript` `Python` `.NET stuff` 
+I am a young **"developer"** from Poland,  
+I like `Python` and `C#` 
 
 ## facts
 Best color is dark purple ( like that i have in stats )  
-Best IDE is Intellij Idea  
+Best IDE are IntelliJ IDEA and Visual Studio
 Best Code Editor is Visual Studio Code  
-Assembly and C++ are the worst languages  
+Assembly is the worst language (i recently tried C++ again and its great, plz forgiv),  
 Best OS for coding is macOS   
 Best Windows is 11  
-Best Linux Distro is Arch  
+Best Linux Distro is Arch (or Void, both are great)
 Best Web Browser is Firefox
 
 ## Spotify Playlists

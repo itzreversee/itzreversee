@@ -12,7 +12,7 @@ Best Code Editor is Visual Studio Code
 Assembly is the worst language (i recently tried C++ again and its great, plz forgiv),  
 Best OS for coding is macOS   
 Best Windows is 11  
-Best Linux Distro is Arch (or Void, both are great)
+Best Linux Distro is Arch (or Void, both are great)  
 Best Web Browser is Firefox
 
 ## Spotify Playlists

@@ -30,7 +30,7 @@ Best Web Browser is Firefox
 
 ## goals or something
 - [x] 2021 -> 200 contributions ( date : 14.12.2021 19:45 )
-- [ ] 2022 -> 500 contributions 
+- [ ] 2022 -> 200 contributions 
 
 ###### i'm not really a dev lol  
 ###### or am i?

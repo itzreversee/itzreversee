@@ -7,7 +7,7 @@ I like `Python` and `C#`
 
 ## facts
 Best color is dark purple ( like that i have in stats )  
-Best IDE are IntelliJ IDEA and Visual Studio
+Best IDE are IntelliJ IDEA and Visual Studio  
 Best Code Editor is Visual Studio Code  
 Assembly is the worst language (i recently tried C++ again and its great, plz forgiv),  
 Best OS for coding is macOS   

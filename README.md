@@ -10,7 +10,6 @@ Best color is dark purple ( like that i have in stats )
 Best IDE are IntelliJ IDEA and Visual Studio  
 Best Code Editor is Visual Studio Code  
 assembly doesn't seem too bad (i recently tried C++ again and its great, plz forgiv),  
-Best OS for coding is macOS   
 Best Windows is 10  
 Best Linux Distro is Arch (or Void, both are great)  
 Best Web Browser is Firefox

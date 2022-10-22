@@ -3,7 +3,7 @@ helo itz me! reversee
 ===========================
  
 code good  
-I like `Java`, `Python` and `C#`
+I like `Dart`, `C++`, `C#`, `Python` and `Java`
 
 ## facts
 Best color is dark purple ( like that i have in stats )  

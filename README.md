@@ -26,8 +26,8 @@ Best Web Browser is Firefox
 [Rapid](https://open.spotify.com/playlist/2AESPSqZOBrFL3wvyzXtp5?si=a01a99c5e1b14ff1&pt=a31053c6cf29d15a90e31b41f360e5de) currently using for coding
 
 ## stats or something 
-[![reversee's GitHub stats](https://github-readme-stats.vercel.app/api?username=reversee-dev&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reversee-dev&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![reversee's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzreversee&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzreversee&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## goals or something
 - [x] 2021 -> 200 contributions ( date : 14.12.2021 19:45 )

@@ -1,6 +1,7 @@
 
-helo itz me! reversee
+helo itz me! ree! ;3
 ===========================
+***NEEDS UPDATE!!***
 
 Languages i know:
  - Python

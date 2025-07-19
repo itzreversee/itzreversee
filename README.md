@@ -3,7 +3,7 @@ haii, it iz me - reesa~! ✨
 ===========================
 I love tinkering with silly stuff!
 
-[More info about me (placeholder for a site, will be done soon promiseeee)](https://github.com/itzreversee)
+### (I HAVE A WEBSITE NOW!!1!)](https://reesa.nekoweb.org/)
 
 ## 🌟Quick info about me
 - I love games and game development (mainly Godot) (GDScript, C#)
